@@ -1,6 +1,7 @@
 import math
 
 # The task is to implement each of the functions so that the tests passes
+# there might be one small error to fix in the task
 
 class LogWriter(object):
 
