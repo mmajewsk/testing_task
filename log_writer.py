@@ -9,7 +9,7 @@ class LogWriter(object):
 	def __init__(self, list_data, head_text):
 		#7
 		#save list_data and head_text as members of this object
-		# create member o_count with value None
+		# create member o_count with value one
 		pass
 
 	@staticmethod
